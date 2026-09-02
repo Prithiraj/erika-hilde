@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://erikaundhilde.de/sitemap.xml
+Sitemap: https://prithiraj.github.io/erika-hilde/sitemap.xml
