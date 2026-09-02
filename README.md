@@ -2,6 +2,12 @@
 
 Evidence-led static website prototype for Erika & Hilde, Weigandufer 9, Berlin-Neukölln.
 
+## Live site
+
+https://prithiraj.github.io/erika-hilde/
+
+Published with GitHub Pages from `main`.
+
 ## Files
 
 - `DESIGN_PLAN.md` — evidence baseline, design rationale, rights notes and acceptance criteria.
