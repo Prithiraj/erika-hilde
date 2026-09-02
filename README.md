@@ -6,7 +6,7 @@ Evidence-led static website prototype for Erika & Hilde, Weigandufer 9, Berlin-N
 
 https://prithiraj.github.io/erika-hilde/
 
-Published with GitHub Pages from `main`.
+Published with GitHub Pages from `main` via `.github/workflows/pages.yml`.
 
 ## Files
 
